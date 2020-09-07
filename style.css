@@ -1,0 +1,50 @@
+body {
+    background-image : url("images/bg-library.jpg");
+
+}
+
+.tableContainer {
+    margin-left:3%;
+    margin-top: 10%;
+    width:50%
+}
+
+.tableTitle {
+    margin-top : 10%;
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    color:darkslategray;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top : 20px;
+    margin-bottom : 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table tr {
+    height : 40px;
+}
+
+.libraryTable, th, td {
+    border: 1Px solid black;
+}
+
+.center {
+    text-align: center;
+}
+
+td button {
+    margin-right : 10px;
+    margin-left : 10px;  
+    margin-top: 5px;
+    margin-bottom : 5px;
+}
+
+table th {
+    text-align: center;
+    width: 10%;
+}
